@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kamalesh+choudhary+%F0%9F%91%8B;Full-Stack+%2F+Software+Developer;Building+with+C%2B%2B%2C+Python+%26+Rust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Kamalesh+choudhary+%F0%9F%91%8B;Full-Stack+%2F+Software+Developer;Building+with+C%2B%2B%2C+Python+%26+Rust" alt="Typing SVG" />
 </div>
 <br/>
 <div align="center">
@@ -25,7 +25,7 @@
  
 <div align="center">
 <img src="https://img.shields.io/github/followers/Kamalesh-choudhary?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Kamalesh-choudhary&label=Public%20Repos&query=public_repos&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Kamalesh-choudhary&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
 <img src="https://img.shields.io/github/stars/Kamalesh-choudhary?affiliations=OWNER&label=Stars%20Earned&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
 </div>
 <br/>
