@@ -42,10 +42,4 @@
 
 </div>
 
-<br/>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kamalesh-choudhary&color=58A6FF&style=flat-square&label=Profile+Views)
-
-</div>
