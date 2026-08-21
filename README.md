@@ -24,10 +24,9 @@
 ### 📊 GitHub Stats
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kamalesh-choudhary&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalesh-choudhary&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="38%" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=Kamalesh-choudhary&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="60%" />
+<img src="https://img.shields.io/github/followers/Kamalesh-choudhary?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Kamalesh-choudhary&label=Public%20Repos&query=public_repos&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/Kamalesh-choudhary?affiliations=OWNER&label=Stars%20Earned&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
 </div>
 <br/>
 ### 🏆 Achievements
