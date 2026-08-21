@@ -13,7 +13,7 @@
 
 <br/>
 
-### 🧑‍💻 About Me
+### About Me
 
 - 🎯 Full-Stack / Software Developer, currently sharpening my **Data Structures & Algorithms**
 - 🛠️ Comfortable across **C++, Rust, Python, JavaScript,**
@@ -23,7 +23,7 @@
 
 <br/>
 
-### 🧰 Tech Stack and Tools
+### Tech Stack and Tools
 
 <div align="center">
 
