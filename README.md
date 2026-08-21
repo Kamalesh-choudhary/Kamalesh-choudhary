@@ -33,18 +33,6 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/Kamalesh-choudhary?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Kamalesh-choudhary&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=58A6FF&labelColor=0D1117" [...]
-<img src="https://img.shields.io/github/stars/Kamalesh-choudhary?affiliations=OWNER&label=Stars%20Earned&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
-
-</div>
-
-<br/>
-
 ### 🏆 Achievements
 
 <div align="center">
