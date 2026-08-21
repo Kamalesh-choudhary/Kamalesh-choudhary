@@ -33,7 +33,7 @@
 
 <br/>
 
-### 🏆 Achievements
+### Achievements
 
 <div align="center">
 
