@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,rust,python,django,fastapi,react,mysql,postgres,tailwindcss,linux,arch,vim,neovim,js,html,css,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,rust,python,js,html,django,fastapi,flask,react,mysql,postgres,tailwindcss,css,linux,arch,vim,neovim,vscode,bash,aws,git,github&theme=dark" />
 
 </div>
 
