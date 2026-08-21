@@ -17,7 +17,7 @@
 
 - 🎯 Full-Stack / Software Developer, currently sharpening my **Data Structures & Algorithms**
 - 🛠️ Comfortable across **C++, Rust, Python, JavaScript,**
-- 🚀 Recently built a **Task Scheduler**, a **Flappy Bird clone**, and explored **Public-Key Cryptography**
+- 🚀 Recently built a **Task Scheduler**, a **Gaming Web-app**, and explored **Public-Key Cryptography**
 - 📚 Actively solving problems from **Leetcode, CodeForces, CodeChef**
 - 🌱 Learning database management systems and backend fundamentals
 
