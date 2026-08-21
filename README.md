@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
 </div>
 <br/>
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
  
 - 🎯 Full-Stack / Software Developer, currently sharpening my **Data Structures & Algorithms**
 - 🛠️ Comfortable across **C++, Python, JavaScript, Rust,** and **HTML**
@@ -15,13 +15,13 @@
 - 📚 Actively solving problems from **NeetCode.io**
 - 🌱 Learning database management systems and backend fundamentals
 <br/>
-### 🧰 Tech Stack
+## 🧰 Tech Stack
  
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,js,rust,html,css,git,github&theme=dark" />
 </div>
 <br/>
-### 📊 GitHub Stats
+## 📊 GitHub Stats
  
 <div align="center">
 <img src="https://img.shields.io/github/followers/Kamalesh-choudhary?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/github/stars/Kamalesh-choudhary?affiliations=OWNER&label=Stars%20Earned&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
 </div>
 <br/>
-### 🏆 Achievements
+## 🏆 Achievements
  
 <div align="center">
 <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" title="Pull Shark" />
